@@ -6,7 +6,7 @@
 - 🎓 **B.Sc. in Computer Science** (Expected Graduation: 2027)
 - 🚀 Passionate about software development, algorithms, and building cool projects.
 - 📫 Reach me at: **ori.shar10@gmail.com**
-- 🌐 [My LinkedIn] - https://www.linkedin.com/in/ori-sharabi-7b2734264/
+- 🌐 [My LinkedIn](https://www.linkedin.com/in/OriSharabi/)
 
 ---
 
