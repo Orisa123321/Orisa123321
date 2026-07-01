@@ -13,7 +13,7 @@
 ## 💻 About Me & My Journey
 
 As a Computer Science student, I focus on creating clean, maintainable, and efficient code. 
-- 🛠️ Currently working on **Home Shopping App and a Collaborating studey web**.
+- 🛠️ Currently working on **[Home Shopping App](https://github.com/Orisa123321/HomeShopping) and a [collaborative learning platform](https://github.com/Orisa123321/MindShare)**.
 - 📚 Learning deeper concepts in Distributed Systems / Web Development / Cloud.
 - 🎯 Seeking a **Student / Entry-level Software Engineer** role.
 
